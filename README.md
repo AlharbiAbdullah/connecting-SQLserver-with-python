@@ -1,0 +1,1 @@
+### Here is a fast way to connect with sql server and get all the data along with columns 
